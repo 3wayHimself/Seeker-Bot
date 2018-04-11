@@ -1,0 +1,4 @@
+If the file "SETUP.bat" isn't working or doesn't work properly here are the correct file locations:
+
+All files besides "Seeker-Bot.lnk" belong in C:\Program Files
+Seeker-Bot.lnk is the main button used to activate the program.
