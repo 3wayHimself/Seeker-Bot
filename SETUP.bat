@@ -1,2 +1,5 @@
-xcopy /s .\main.exe %PROGRAMFILES%\main.exe
-mklink %PROGRAMFILES%\main.exe %UserProfile%\Desktop\Seeker-Bot.lnk
+mkdir %PROGRAMFILES%\Seeker-Bot
+xcopy /e /v .\*.* %PROGRAMFILES%\*.*
+mklink %PROGRAMFILES%\main.exe %UserProfile%\Desktop\SeekerBot
+echo Shits installed, glhf
+pause

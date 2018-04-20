@@ -4,6 +4,8 @@ const time_t ctt = time(0);
 
 int main()
 {
+    std::cout << "Seeker Bot: Welcome user. If you need any help simply type in 'help'" << std::endl;
+    std::cout << "" << std::endl;
     while (true)
     {
 
@@ -234,9 +236,19 @@ int main()
                             std::cout << "Seeker Bot: It's a habit." << std::endl;
                             std::cout << "" << std::endl;
                     }
+                        if (a == "db"){
+                            std::cout << "" << std::endl;
+                            std::cout << "Seeker Bot: 'db_commands' instead." << std::endl;
+                            std::cout << "" << std::endl;
+                    }
                         if (a == "why"){
                             std::cout << "" << std::endl;
                             std::cout << "Seeker Bot: Why not?" << std::endl;
+                            std::cout << "" << std::endl;
+                    }
+                        if (a == "database"){
+                            std::cout << "" << std::endl;
+                            std::cout << "Seeker Bot: If you want DB access type in 'db_commands'" << std::endl;
                             std::cout << "" << std::endl;
                     }
                         if (a == "true"){
@@ -342,6 +354,7 @@ int main()
                         std::cout << "Seeker Bot: We currently have the following tools;" << std::endl;
                         std::cout << "- logger" << std::endl;
                         std::cout << "- date" << std::endl;
+                        std::cout << "- anonymous_email" << std::endl;
                         std::cout << "" << std::endl;
                     }
                         if (a == "logger"){
@@ -366,6 +379,11 @@ int main()
                            std::cout << asctime(localtime(&ctt)) << std::endl;
                            std::cout << "" << std::endl;
                     }
+                       if (a == "anonymous_email"){
+                            std::cout << "" << std::endl;
+                            std::cout << "Seeker Bot: EludeMail - http://eludemaillhqfkh5.onion/  /  https://elude.in/" << std::endl;
+                            std::cout << "" << std::endl;
+                       }
                     /* -TOOLS */
 
                     /* +DIVINE COMMANDS*/
@@ -466,8 +484,11 @@ int main()
                     if (a == "user_db"){
                             std::cout << "" << std::endl;
                             std::cout << "Seeker Bot: We currently have files on the following users;" << std::endl;
-                            std::cout << "- user_seeker" << std::endl;
-                            std::cout << "- user_cricket" << std::endl;
+                            std::cout << "'Seeker/Seeker Of Truth' - user_seeker" << std::endl;
+                            std::cout << "'Cricket' - user_cricket" << std::endl;
+                            std::cout << "'WarDawg' - user_wardawg" << std::endl;
+                            std::cout << "'Terminal' - user_306980481864564736" << std::endl;
+                            std::cout << "'Don't Fuck With Me' - user_376576453313298450" << std::endl;
                             std::cout << "" << std::endl;
                     }
                     if (a == "user_seeker"){
@@ -486,6 +507,221 @@ int main()
                             std::cout << "End File 2" << std::endl;
                             std::cout << "" << std::endl;
                     }
+                    if (a == "user_wardawg"){
+                        std::cout << "" << std::endl;
+                        std::cout << "Lookup Status: Successful" << std::endl;
+                        std::cout << "User: 'Wardawg' Found." << std::endl;
+                        std::cout << "Viewing File 3;" << std::endl;
+                        std::cout << "Reason Of Dox: Pedophilia." << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "SOCIAL MEDIA" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Username: Wardawg, Nate, Alien God" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Discord: Oliver#6153 (Current) / wardawg4.0#2159 (Past) " << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "ID: 423627615157616642 / 156602050753331200 " << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Discord Server(s): https://discordapp.com/invite/XYQAgd / https://discord.me/cranedogg / https://discord.gg/EwEsdsS (oldish) / https://discordapp.com/invite/Ydc6Ak" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Email: ncrane661@Gmail.com / wardawgthegod@gmail.com / nathanc502@gmail.com / davec502@comcast.net" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Twitter:  https://twitter.com/wardawgthegod2 / https://twitter.com/ReesCrane" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "FaceBook: https://www.facebook.com/profile.php?id=100010583715994" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "SnapChat: https://cdn.discordapp.com/attachments/403713528932073472/423837196886474762/23844391_526634507699335_3781769266144878300_n.png" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "YouTube: https://www.youtube.com/channel/UCrgm8Iao20R7xW1tjGavEdQ / https://www.youtube.com/channel/UCYqGJutlAzAtTPa_KDM2OHw / https://www.youtube.com/channel/UCgyEoEw7AXN8NxWK7PDd14g/" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Skype: Nate.crane4 / Nathanc1990 / natedawg2354" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Twitch: https://www.twitch.tv/imsupermanstreamer / https://www.twitch.tv/rapgodsquad / https://www.twitch.tv/alienavongod / https://www.twitch.tv/wargod2354 / https://www.twitch.tv/nathanc503 / " << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Other: https://www.smashcast.tv/WarDawg / http://www.liveme.com/live.html?videoid=15068530645453077733 / " << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "PERSONAL INFORMATION" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Name: Nathan Rees Crane" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "DOB: 1/28/1990" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Address: 1600 Fort Dupont St SE Washington, DC 20020 / 1407 W North St Bellingham, WA 98225-2746" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "IP: 67.161.92.45 / " << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Phone: 360-932-0968 / 360-734-9491 / 360-389-0402" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Password: avongoddess, aliengod72, avongoddess12," << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Websites: http://www.nathan502.com/ / http://www.wardawgthegod.com/ (both expired)" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "SSN: 533441996" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Education: Bellingham High school" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "SOCIAL ENGINEERING" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Intelligence: 2" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Threat Level: 4 (Only to minors)" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "End File 3" << std::endl;
+                        std::cout << "" << std::endl;
+                    }
+                    if (a == "user_306980481864564736"){
+                        std::cout << "" << std::endl;
+                        std::cout << "Lookup Status: Successful" << std::endl;
+                        std::cout << "User: 'Terminal' Found." << std::endl;
+                        std::cout << "Viewing File 4;" << std::endl;
+                        std::cout << "Reason Of Dox: Attempt To Attack Seeker. (Nobody attacks my senpai >:( " << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "SOCIAL MEDIA" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Discord: " << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "ID: 306980481864564736" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "PERSONAL INFORMATION" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Name: Shane Coughlin" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Address: 7251 Little Neck Pkwy, Glen Oaks, NY 11004" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Face: https://cdn.discordapp.com/attachments/329079719557595137/394267801566707712/20171119_122416.png" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "SOCIAL ENGINEERING" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Intelligence: 5" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Threat Level: 3" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "End File 4" << std::endl;
+                        std::cout << "" << std::endl;
+                    }
+                    if (a == "user_376576453313298450"){
+                        std::cout << "" << std::endl;
+                        std::cout << "Lookup Status: Successful" << std::endl;
+                        std::cout << "User: 'Don't Fuck With Me' Found." << std::endl;
+                        std::cout << "Viewing File 5;" << std::endl;
+                        std::cout << "Reason Of Dox: Abuse Of Spouse" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "SOCIAL MEDIA" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Discord: Don't Fuck With Me#4351" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "ID: 376576453313298450" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "hi5: http://www.hi5.com/profile.html?uid=5833589904" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "PERSONAL INFORMATION" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Name: Alex Ernesto Flores" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Alias: Alexander Ernesto Flores / Alejandro C Flores / Alexander Jaquan Flores" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Age: 25" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Gender: Male" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Race: America Latinia" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Address: 5675 Roswell Rd Apt 42i, Atlanta, GA 30342" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Email: alexflores1743@yahoo.com" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "COURT FILES" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Case Filing Date:  May 24, 2011" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Case Number: F143333" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "Offenders Address: 555 Roswell Rd Apt Q6, Atlanta, GA 30342-1816" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "County: Spartanburg" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "End File 5" << std::endl;
+                        std::cout << "" << std::endl;
+}
+
+                    /* -USER DATABASE */
+
+                    /* +ONION DATABASE */
+                    if (a == "onion_db"){
+                        std::cout << "" << std::endl;
+                        std::cout << "Seeker Bot: We have the following onions;" << std::endl;
+                        std::cout << "Seeker Bot: NOTE: THESE SITES ARE NOT VERIFIED AND CAN BE POTENTIALLY DANGEROUS OR SCAMS. USE AT OWN RISK!" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "INFORMATION:" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- http://cp5ju2qrbfrwz4z4.onion/ | Divine Officials Website" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- http://zqktlwi4fecvo6ri.onion/ | Hidden Wiki" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- http://torlinksd6pdnihy.onion/ | Tor Links" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- http://wlupld3ptjvsgwqw.onion/ | WikiLeaks" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- http://54ogum7gwxhtgiya.onion/ | Dimension X" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "MARKETS:" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- http://2kka4f23pcxgqkpv.onion/ | EuroGuns, Gun Market" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "CRYPTO CURRENCY:" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- block77jhhdyqion.onion | Bitcoin Blockchain" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- coinpaymtstgtibr.onion/ | Multi-Coin Wallet" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "BLOGS:" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- jpfoxfrtbirzzugb.onion | jp.fox | Some random french blog" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "COMMUNICATION:" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- http://qj3m7wxqk4pfqwob.onion/ | MadIRD | IRC Client" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- http://x7giprgefwfvkeep.onion/ | Hidden Clubs Forums" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "MAIL:" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- http://torbox3uiot6wchz.onion/ | Tor Mail emailing system" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- http://eludemaillhqfkh5.onion/ | EludeMail | Secure eMail Service" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "BROWSERS:" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- http://hss3uro2hsxfogfq.onion/ | Not Evil Search Engine" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- http://msydqstlz2kzerdg.onion/ | Ahmia Search Engine" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- https://3g2upl4pq6kufc4m.onion/ | DuckDuckGo Search Engine" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- http://xmh57jrzrnw6insl.onion/ | Torch Search Engine" << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- " << std::endl;
+                        std::cout << "" << std::endl;
+                        std::cout << "- " << std::endl;
+                }
+
     }
     return 0;
 }
